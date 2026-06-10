@@ -1,3 +1,4 @@
+Therapists · JSON
 [
   {
     "name": "Daniel L. Smith",
@@ -8,6 +9,26 @@
     "city": "St. Louis",
     "state": "Missouri",
     "phone": "(314) 265-2440",
-    "booking_url": "https://heal.me/danielsmith"
+    "email": "betnomore@gmail.com"
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
